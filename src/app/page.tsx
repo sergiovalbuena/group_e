@@ -6,7 +6,7 @@ const people = [
     name: 'Sergio Valbuena',
     role: 'IMD Student',
     imageUrl:'/images/SergioAvatar.png',
-    bio: 'Sergio is  passionate about developing technologies that empower regular people to push the boundaries of what is possible.Whether you are looking for a sleek website, a custom Arduino project, or an immersive experience, Sergio has the skills and expertise to bring your vision to life. Sergio believes in the power of innovation and collaboration, and I am committed to helping you achieve your goals.',
+    bio: 'Sergio is a skilled technologist with a passion for innovation and collaboration. He has expertise in web development, Arduino programming, and immersive experiences, and believes in leveraging technology to empower people to achieve their goals. With a commitment to delivering solutions that exceed expectations, Sergio is dedicated to helping his clients push the boundaries of what is possible.',
   },
   {
     name: 'David Abram-Krismer ',
@@ -29,7 +29,7 @@ export default function Example() {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl sm:text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our Team</h2>
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"> <span className="text-gray-400"> Meet</span> Team E</h2>
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">🧑🏻‍💻 👨🏼‍🎨 🧑🏻‍💻</h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
           Say hello to our dynamic squad! 🚀 We are tech enthusiasts, design mavens, and problem-solvers who love pushing boundaries and exceeding expectations. Our passion for creative solutions drives us to deliver exceptional results for our clients every time. Join us on this exciting journey of innovation and growth. 💪🏼
